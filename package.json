@@ -1,0 +1,23 @@
+{
+  "name": "mylo-jg-productions",
+  "version": "1.0.0",
+  "main": "./Structures/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii": "^1.0.0",
+    "ascii-table": "^0.0.9",
+    "discord-html-transcripts": "^1.2.3",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.2",
+    "glob": "^7.2.0",
+    "mongoose": "^6.2.1",
+    "replit": "^0.3.1",
+    "util": "^0.12.4"
+  },
+  "description": ""
+}
